@@ -34,5 +34,5 @@ IBM HR Analytics veri seti kullanılarak Excel'de interaktif bir İK analiz dosy
 
 
 - **Microsoft Excel** — Pivot tablo, grafik, dashboard, koşullu biçimlendirme
-- **Veri Seti:** [IBM HR Analytics (Kaggle)](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
+
 
