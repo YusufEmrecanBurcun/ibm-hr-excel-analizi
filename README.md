@@ -31,8 +31,12 @@ IBM HR Analytics veri seti kullanılarak Excel'de interaktif bir İK analiz dosy
 | 3 | **18-30 yaş** grubunda ayrılma oranı en yüksek — **%25.4** |
 | 4 | Genel ayrılma oranı: **%16.1** (1470 çalışandan 237'si) |
 
+---
 
+## 🛠️ Kullanılan Teknolojiler
 
 - **Microsoft Excel** — Pivot tablo, grafik, dashboard, koşullu biçimlendirme
+- **Veri Seti:** [IBM HR Analytics (Kaggle)](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
+
 
 
